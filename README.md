@@ -13,3 +13,36 @@ Il y a [4] maquettes :
 
 Page d'accueil : Cette maquette contiendra les informations general me concernant
 Experience : Cette maquette contiendra les informations des différentes experiences professionel que j'ai eu .
+
+page 2 : compétences maîtrisées & Technologie Maitrisées
+
+
+page 3 : Project Pro
+
+page 4 : Réseau sociaux (Insta/Facebook/Twitter) Num Tél / e-mail / Adresse /
+<p align="center">
+  <kbd>
+<img src="https://media.discordapp.net/attachments/845178623413321730/859025379712303144/1.png?width=1164&height=655"</img>
+  </kbd>
+</p>
+
+.page 2
+<p align="center">
+  <kbd>
+<img src="https://media.discordapp.net/attachments/845178623413321730/859027251349028864/2.png?width=1164&height=655"</img>
+  </kbd>
+</p>
+
+.page 3
+<p align="center">
+  <kbd>
+<img src="https://media.discordapp.net/attachments/845178623413321730/859027611875540992/3.png?width=1164&height=655"</img>
+  </kbd>
+</p>
+
+.page 4
+<p align="center">
+  <kbd>
+<img src="https://media.discordapp.net/attachments/845178623413321730/859027984357785620/4.png?width=1164&height=655"</img>
+  </kbd>
+</p>
